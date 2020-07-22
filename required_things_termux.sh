@@ -339,6 +339,7 @@ sudo apt-get update -y
 clear
 echo " "
 echo " "
+pkg install sed
 clear
 echo "◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►"
 echo -e "$On_Red $BWhiteCreated   By:EFX Tv [[required_things_termux]]     $COLOR"
@@ -357,9 +358,25 @@ echo " Installing python-pip..."
 sleep 4
 pkg install python-pip -y
 clear
-
-
-echo " "
+echo "◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►"
+echo -e "$On_Red $BWhiteCreated   By:EFX Tv [[required_things_termux]]     $COLOR"
+echo -e "$BYellow _____ _______  __  _____       "
+echo -e "$BYellow| ____|  ___\ \/ / |_   _|_   __"
+echo -e "$BWhite|  _| | |_   \  /    | | \ \ / /"
+echo -e "$BGreen| |___|  _|  /  \    | |  \ V / "
+echo -e "$BGreen|_____|_|   /_/\_\   |_|   \_/ "
+echo -e "$BWhite			"
+echo -e "$BWhite ヅ●$BRed ● $COLOR●$COLOR ⓅⓁⒺⒶⓈⒺ ⓈⓊⒷⓈⒸⓇⒾⒷⒺ ●$BRed ● $COLOR●$BWhite ツ $COLOR "
+echo -e "$On_Red      No questions do it fast...    $COLOR"""
+echo "◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►"
+echo -e "   Note:$BRed✘✘✘$COLOR Do not missuse it $BRed✘✘✘$COLOR "
+echo -e "$BRed◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►$COLOR"
+echo " Now we are going to install metasploit quickly... 
+echo "Remove, update, install unstable-repo, install metasploit..."
+pkg remove metasploit -y
+pkg update -y && pkg upgrade
+pkg in unstable-repo
+pkg install metasploit
 echo "...############# Cheers !!! ################..."
 clear
 echo " ."
@@ -371,7 +388,7 @@ sleep 1
 echo " ."
 sleep 1
 echo " ."
-echo " All supported files are installed, You are ready to use the linux"
+echo " All supported files and Official Metasploit hasbeen installed, You are ready to use the termux..."
 sleep 2
 echo '
 /.... (PLEASE)
