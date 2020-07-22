@@ -371,14 +371,13 @@ echo -e "$On_Red      No questions do it fast...    $COLOR"""
 echo "◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►"
 echo -e "   Note:$BRed✘✘✘$COLOR Do not missuse it $BRed✘✘✘$COLOR "
 echo -e "$BRed◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►$COLOR"
-echo " Now we are going to install metasploit quickly... 
+echo " Now we are going to install metasploit quickly... "
 echo "Remove, update, install unstable-repo, install metasploit..."
 pkg remove metasploit -y
-pkg update -y && pkg upgrade
+pkg update -y && pkg upgrade -y
 pkg in unstable-repo
 pkg install metasploit
 echo "...############# Cheers !!! ################..."
-clear
 echo " ."
 sleep 1
 echo " ."
