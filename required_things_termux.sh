@@ -162,20 +162,6 @@ echo -e "$BWhite ヅ●$BRed ● $COLOR●$COLOR ⓅⓁⒺⒶⓈⒺ ⓈⓊⒷⓈ
 echo -e "$On_Red      No questions do it fast...    $COLOR"""
 echo " "
 echo " "
-clear
-echo "◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►"
-echo -e "$On_Red $BWhiteCreated   By: EFX Tv
-echo -e "Install termux Supported Package     $COLOR"
-echo -e "$BYellow _____ _______  __  _____       "
-echo -e "$BYellow| ____|  ___\ \/ / |_   _|_   __"
-echo -e "$BWhite|  _| | |_   \  /    | | \ \ / /"
-echo -e "$BGreen| |___|  _|  /  \    | |  \ V / "
-echo -e "$BGreen|_____|_|   /_/\_\   |_|   \_/ "
-echo -e "$BWhite			"
-echo -e "$BWhite ヅ●$BRed ● $COLOR●$COLOR ⓅⓁⒺⒶⓈⒺ ⓈⓊⒷⓈⒸⓇⒾⒷⒺ ●$BRed ● $COLOR●$BWhite ツ $COLOR "
-echo -e "$On_Red      No questions do it fast...    $COLOR"""
-echo " "
-echo " "
 echo " Installing update and upgrade..."
 sleep 4
 pkg update -y && pkg upgrade -y
