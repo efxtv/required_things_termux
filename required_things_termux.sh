@@ -13,8 +13,7 @@ On_Red='\033[41m'	#Bgcolor
 COLOR='\e[0m'		#close
 #COLOR END $BWhite $COLOR
 echo "◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►"
-echo -e "$On_Red $BWhiteCreated   By: EFX Tv
-echo -e "Install termux Supported Package     $COLOR"
+echo -e "$On_Red $BWhiteCreated   By:EFX Tv [[required_things_termux]]     $COLOR"
 echo -e "$BYellow _____ _______  __  _____       "
 echo -e "$BYellow| ____|  ___\ \/ / |_   _|_   __"
 echo -e "$BWhite|  _| | |_   \  /    | | \ \ / /"
@@ -29,7 +28,7 @@ echo -e "$BRed◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►
 echo " "
 echo "### This Script is written by EFX Tv "
 echo " "
-echo " ---------We are ready to start the Installation Process ---------️----"
+echo "---------We are ready to start the Installation Process ---------️----"
 sleep 4
 echo " ---------1"
 sleep 1
@@ -62,14 +61,9 @@ sleep 1
 echo " -------------------Installing..."
 sleep 2
 echo " "
-echo " Installing update and upgrade..."
-sleep 2
-pkg update -y
-pkg upgrade -y
 clear
 echo "◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►"
-echo -e "$On_Red $BWhiteCreated   By: EFX Tv
-echo -e "Install termux Supported Package     $COLOR"
+echo -e "$On_Red $BWhiteCreated   By:EFX Tv [[required_things_termux]]     $COLOR"
 echo -e "$BYellow _____ _______  __  _____       "
 echo -e "$BYellow| ____|  ___\ \/ / |_   _|_   __"
 echo -e "$BWhite|  _| | |_   \  /    | | \ \ / /"
@@ -78,15 +72,52 @@ echo -e "$BGreen|_____|_|   /_/\_\   |_|   \_/ "
 echo -e "$BWhite			"
 echo -e "$BWhite ヅ●$BRed ● $COLOR●$COLOR ⓅⓁⒺⒶⓈⒺ ⓈⓊⒷⓈⒸⓇⒾⒷⒺ ●$BRed ● $COLOR●$BWhite ツ $COLOR "
 echo -e "$On_Red      No questions do it fast...    $COLOR"""
+echo "◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►"
+echo -e "   Note:$BRed✘✘✘$COLOR Do not missuse it $BRed✘✘✘$COLOR "
+echo -e "$BRed◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►$COLOR"
+echo " Installing update and upgrade..."
+sleep 2
+pkg update -y
+clear
+echo "◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►"
+echo -e "$On_Red $BWhiteCreated   By:EFX Tv [[required_things_termux]]     $COLOR"
+echo -e "$BYellow _____ _______  __  _____       "
+echo -e "$BYellow| ____|  ___\ \/ / |_   _|_   __"
+echo -e "$BWhite|  _| | |_   \  /    | | \ \ / /"
+echo -e "$BGreen| |___|  _|  /  \    | |  \ V / "
+echo -e "$BGreen|_____|_|   /_/\_\   |_|   \_/ "
+echo -e "$BWhite			"
+echo -e "$BWhite ヅ●$BRed ● $COLOR●$COLOR ⓅⓁⒺⒶⓈⒺ ⓈⓊⒷⓈⒸⓇⒾⒷⒺ ●$BRed ● $COLOR●$BWhite ツ $COLOR "
+echo -e "$On_Red      No questions do it fast...    $COLOR"""
+echo "◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►"
+echo -e "   Note:$BRed✘✘✘$COLOR Do not missuse it $BRed✘✘✘$COLOR "
+echo -e "$BRed◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►$COLOR"
+pkg upgrade -y
+clear
 echo " "
 echo " "
+echo "◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►"
+echo -e "$On_Red $BWhiteCreated   By:EFX Tv [[required_things_termux]]     $COLOR"
+echo -e "$BYellow _____ _______  __  _____       "
+echo -e "$BYellow| ____|  ___\ \/ / |_   _|_   __"
+echo -e "$BWhite|  _| | |_   \  /    | | \ \ / /"
+echo -e "$BGreen| |___|  _|  /  \    | |  \ V / "
+echo -e "$BGreen|_____|_|   /_/\_\   |_|   \_/ "
+echo -e "$BWhite			"
+echo -e "$BWhite ヅ●$BRed ● $COLOR●$COLOR ⓅⓁⒺⒶⓈⒺ ⓈⓊⒷⓈⒸⓇⒾⒷⒺ ●$BRed ● $COLOR●$BWhite ツ $COLOR "
+echo -e "$On_Red      No questions do it fast...    $COLOR"""
+echo "◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►"
+echo -e "   Note:$BRed✘✘✘$COLOR Do not missuse it $BRed✘✘✘$COLOR "
+echo -e "$BRed◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►$COLOR"
 echo " Installing Ruby..."
 sleep 4
 pkg install ruby -y
 clear
+echo " "
+echo " "
+clear
 echo "◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►"
-echo -e "$On_Red $BWhiteCreated   By: EFX Tv
-echo -e "Install termux Supported Package     $COLOR"
+echo -e "$On_Red $BWhiteCreated   By:EFX Tv [[required_things_termux]]     $COLOR"
 echo -e "$BYellow _____ _______  __  _____       "
 echo -e "$BYellow| ____|  ___\ \/ / |_   _|_   __"
 echo -e "$BWhite|  _| | |_   \  /    | | \ \ / /"
@@ -95,15 +126,18 @@ echo -e "$BGreen|_____|_|   /_/\_\   |_|   \_/ "
 echo -e "$BWhite			"
 echo -e "$BWhite ヅ●$BRed ● $COLOR●$COLOR ⓅⓁⒺⒶⓈⒺ ⓈⓊⒷⓈⒸⓇⒾⒷⒺ ●$BRed ● $COLOR●$BWhite ツ $COLOR "
 echo -e "$On_Red      No questions do it fast...    $COLOR"""
-echo " "
-echo " "
+echo "◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►"
+echo -e "   Note:$BRed✘✘✘$COLOR Do not missuse it $BRed✘✘✘$COLOR "
+echo -e "$BRed◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►$COLOR"
 echo " Installing wget..."
 sleep 4
 pkg install wget -y
 clear
+echo " "
+echo " "
+clear
 echo "◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►"
-echo -e "$On_Red $BWhiteCreated   By: EFX Tv
-echo -e "Install termux Supported Package     $COLOR"
+echo -e "$On_Red $BWhiteCreated   By:EFX Tv [[required_things_termux]]     $COLOR"
 echo -e "$BYellow _____ _______  __  _____       "
 echo -e "$BYellow| ____|  ___\ \/ / |_   _|_   __"
 echo -e "$BWhite|  _| | |_   \  /    | | \ \ / /"
@@ -112,15 +146,18 @@ echo -e "$BGreen|_____|_|   /_/\_\   |_|   \_/ "
 echo -e "$BWhite			"
 echo -e "$BWhite ヅ●$BRed ● $COLOR●$COLOR ⓅⓁⒺⒶⓈⒺ ⓈⓊⒷⓈⒸⓇⒾⒷⒺ ●$BRed ● $COLOR●$BWhite ツ $COLOR "
 echo -e "$On_Red      No questions do it fast...    $COLOR"""
-echo " "
-echo " "
+echo "◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►"
+echo -e "   Note:$BRed✘✘✘$COLOR Do not missuse it $BRed✘✘✘$COLOR "
+echo -e "$BRed◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►$COLOR"
 echo " Installing curl..."
 sleep 4
 pkg install curl -y
 clear
+echo " "
+echo " "
+clear
 echo "◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►"
-echo -e "$On_Red $BWhiteCreated   By: EFX Tv
-echo -e "Install termux Supported Package     $COLOR"
+echo -e "$On_Red $BWhiteCreated   By:EFX Tv [[required_things_termux]]     $COLOR"
 echo -e "$BYellow _____ _______  __  _____       "
 echo -e "$BYellow| ____|  ___\ \/ / |_   _|_   __"
 echo -e "$BWhite|  _| | |_   \  /    | | \ \ / /"
@@ -129,29 +166,18 @@ echo -e "$BGreen|_____|_|   /_/\_\   |_|   \_/ "
 echo -e "$BWhite			"
 echo -e "$BWhite ヅ●$BRed ● $COLOR●$COLOR ⓅⓁⒺⒶⓈⒺ ⓈⓊⒷⓈⒸⓇⒾⒷⒺ ●$BRed ● $COLOR●$BWhite ツ $COLOR "
 echo -e "$On_Red      No questions do it fast...    $COLOR"""
-echo " "
-echo " "
+echo "◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►"
+echo -e "   Note:$BRed✘✘✘$COLOR Do not missuse it $BRed✘✘✘$COLOR "
+echo -e "$BRed◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►$COLOR"
 echo " Installing git..."
 sleep 4
 pkg install git -y
 clear
-echo "◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►"
-echo -e "$On_Red $BWhiteCreated   By: EFX Tv
-echo -e "Install termux Supported Package     $COLOR"
-echo -e "$BYellow _____ _______  __  _____       "
-echo -e "$BYellow| ____|  ___\ \/ / |_   _|_   __"
-echo -e "$BWhite|  _| | |_   \  /    | | \ \ / /"
-echo -e "$BGreen| |___|  _|  /  \    | |  \ V / "
-echo -e "$BGreen|_____|_|   /_/\_\   |_|   \_/ "
-echo -e "$BWhite			"
-echo -e "$BWhite ヅ●$BRed ● $COLOR●$COLOR ⓅⓁⒺⒶⓈⒺ ⓈⓊⒷⓈⒸⓇⒾⒷⒺ ●$BRed ● $COLOR●$BWhite ツ $COLOR "
-echo -e "$On_Red      No questions do it fast...    $COLOR"""
 echo " "
 echo " "
 clear
 echo "◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►"
-echo -e "$On_Red $BWhiteCreated   By: EFX Tv
-echo -e "Install termux Supported Package     $COLOR"
+echo -e "$On_Red $BWhiteCreated   By:EFX Tv [[required_things_termux]]     $COLOR"
 echo -e "$BYellow _____ _______  __  _____       "
 echo -e "$BYellow| ____|  ___\ \/ / |_   _|_   __"
 echo -e "$BWhite|  _| | |_   \  /    | | \ \ / /"
@@ -160,15 +186,15 @@ echo -e "$BGreen|_____|_|   /_/\_\   |_|   \_/ "
 echo -e "$BWhite			"
 echo -e "$BWhite ヅ●$BRed ● $COLOR●$COLOR ⓅⓁⒺⒶⓈⒺ ⓈⓊⒷⓈⒸⓇⒾⒷⒺ ●$BRed ● $COLOR●$BWhite ツ $COLOR "
 echo -e "$On_Red      No questions do it fast...    $COLOR"""
-echo " "
-echo " "
+echo "◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►"
+echo -e "   Note:$BRed✘✘✘$COLOR Do not missuse it $BRed✘✘✘$COLOR "
+echo -e "$BRed◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►$COLOR"
 echo " Installing update and upgrade..."
 sleep 4
 pkg update -y && pkg upgrade -y
 clear
 echo "◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►"
-echo -e "$On_Red $BWhiteCreated   By: EFX Tv
-echo -e "Install termux Supported Package     $COLOR"
+echo -e "$On_Red $BWhiteCreated   By:EFX Tv [[required_things_termux]]     $COLOR"
 echo -e "$BYellow _____ _______  __  _____       "
 echo -e "$BYellow| ____|  ___\ \/ / |_   _|_   __"
 echo -e "$BWhite|  _| | |_   \  /    | | \ \ / /"
@@ -177,29 +203,15 @@ echo -e "$BGreen|_____|_|   /_/\_\   |_|   \_/ "
 echo -e "$BWhite			"
 echo -e "$BWhite ヅ●$BRed ● $COLOR●$COLOR ⓅⓁⒺⒶⓈⒺ ⓈⓊⒷⓈⒸⓇⒾⒷⒺ ●$BRed ● $COLOR●$BWhite ツ $COLOR "
 echo -e "$On_Red      No questions do it fast...    $COLOR"""
-echo " "
-echo " "
-clear
 echo "◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►"
-echo -e "$On_Red $BWhiteCreated   By: EFX Tv
-echo -e "Install termux Supported Package     $COLOR"
-echo -e "$BYellow _____ _______  __  _____       "
-echo -e "$BYellow| ____|  ___\ \/ / |_   _|_   __"
-echo -e "$BWhite|  _| | |_   \  /    | | \ \ / /"
-echo -e "$BGreen| |___|  _|  /  \    | |  \ V / "
-echo -e "$BGreen|_____|_|   /_/\_\   |_|   \_/ "
-echo -e "$BWhite			"
-echo -e "$BWhite ヅ●$BRed ● $COLOR●$COLOR ⓅⓁⒺⒶⓈⒺ ⓈⓊⒷⓈⒸⓇⒾⒷⒺ ●$BRed ● $COLOR●$BWhite ツ $COLOR "
-echo -e "$On_Red      No questions do it fast...    $COLOR"""
-echo " "
-echo " "
+echo -e "   Note:$BRed✘✘✘$COLOR Do not missuse it $BRed✘✘✘$COLOR "
+echo -e "$BRed◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►$COLOR"
 echo " Installing Python..."
 sleep 4
 pkg install python -y
 clear
 echo "◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►"
-echo -e "$On_Red $BWhiteCreated   By: EFX Tv
-echo -e "Install termux Supported Package     $COLOR"
+echo -e "$On_Red $BWhiteCreated   By:EFX Tv [[required_things_termux]]     $COLOR"
 echo -e "$BYellow _____ _______  __  _____       "
 echo -e "$BYellow| ____|  ___\ \/ / |_   _|_   __"
 echo -e "$BWhite|  _| | |_   \  /    | | \ \ / /"
@@ -208,15 +220,31 @@ echo -e "$BGreen|_____|_|   /_/\_\   |_|   \_/ "
 echo -e "$BWhite			"
 echo -e "$BWhite ヅ●$BRed ● $COLOR●$COLOR ⓅⓁⒺⒶⓈⒺ ⓈⓊⒷⓈⒸⓇⒾⒷⒺ ●$BRed ● $COLOR●$BWhite ツ $COLOR "
 echo -e "$On_Red      No questions do it fast...    $COLOR"""
+echo "◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►"
+echo -e "   Note:$BRed✘✘✘$COLOR Do not missuse it $BRed✘✘✘$COLOR "
+echo -e "$BRed◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►$COLOR"
 echo " "
 echo " "
+clear
+echo "◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►"
+echo -e "$On_Red $BWhiteCreated   By:EFX Tv [[required_things_termux]]     $COLOR"
+echo -e "$BYellow _____ _______  __  _____       "
+echo -e "$BYellow| ____|  ___\ \/ / |_   _|_   __"
+echo -e "$BWhite|  _| | |_   \  /    | | \ \ / /"
+echo -e "$BGreen| |___|  _|  /  \    | |  \ V / "
+echo -e "$BGreen|_____|_|   /_/\_\   |_|   \_/ "
+echo -e "$BWhite			"
+echo -e "$BWhite ヅ●$BRed ● $COLOR●$COLOR ⓅⓁⒺⒶⓈⒺ ⓈⓊⒷⓈⒸⓇⒾⒷⒺ ●$BRed ● $COLOR●$BWhite ツ $COLOR "
+echo -e "$On_Red      No questions do it fast...    $COLOR"""
+echo "◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►"
+echo -e "   Note:$BRed✘✘✘$COLOR Do not missuse it $BRed✘✘✘$COLOR "
+echo -e "$BRed◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►$COLOR"
 echo " Installing Python2..."
 sleep 4
 pkg install python2 -y
 clear
 echo "◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►"
-echo -e "$On_Red $BWhiteCreated   By: EFX Tv
-echo -e "Install termux Supported Package     $COLOR"
+echo -e "$On_Red $BWhiteCreated   By:EFX Tv [[required_things_termux]]     $COLOR"
 echo -e "$BYellow _____ _______  __  _____       "
 echo -e "$BYellow| ____|  ___\ \/ / |_   _|_   __"
 echo -e "$BWhite|  _| | |_   \  /    | | \ \ / /"
@@ -225,15 +253,15 @@ echo -e "$BGreen|_____|_|   /_/\_\   |_|   \_/ "
 echo -e "$BWhite			"
 echo -e "$BWhite ヅ●$BRed ● $COLOR●$COLOR ⓅⓁⒺⒶⓈⒺ ⓈⓊⒷⓈⒸⓇⒾⒷⒺ ●$BRed ● $COLOR●$BWhite ツ $COLOR "
 echo -e "$On_Red      No questions do it fast...    $COLOR"""
-echo " "
-echo " "
+echo "◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►"
+echo -e "   Note:$BRed✘✘✘$COLOR Do not missuse it $BRed✘✘✘$COLOR "
+echo -e "$BRed◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►$COLOR"
 echo " Installing Python3..."
 sleep 4
 pkg install python3 -y
 clear
 echo "◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►"
-echo -e "$On_Red $BWhiteCreated   By: EFX Tv
-echo -e "Install termux Supported Package     $COLOR"
+echo -e "$On_Red $BWhiteCreated   By:EFX Tv [[required_things_termux]]     $COLOR"
 echo -e "$BYellow _____ _______  __  _____       "
 echo -e "$BYellow| ____|  ___\ \/ / |_   _|_   __"
 echo -e "$BWhite|  _| | |_   \  /    | | \ \ / /"
@@ -242,15 +270,18 @@ echo -e "$BGreen|_____|_|   /_/\_\   |_|   \_/ "
 echo -e "$BWhite			"
 echo -e "$BWhite ヅ●$BRed ● $COLOR●$COLOR ⓅⓁⒺⒶⓈⒺ ⓈⓊⒷⓈⒸⓇⒾⒷⒺ ●$BRed ● $COLOR●$BWhite ツ $COLOR "
 echo -e "$On_Red      No questions do it fast...    $COLOR"""
-echo " "
-echo " "
+echo "◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►"
+echo -e "   Note:$BRed✘✘✘$COLOR Do not missuse it $BRed✘✘✘$COLOR "
+echo -e "$BRed◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►$COLOR"
 echo " Installing Php..."
 sleep 4
 pkg install php -y
 clear
+echo " "
+echo " "
+clear
 echo "◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►"
-echo -e "$On_Red $BWhiteCreated   By: EFX Tv
-echo -e "Install termux Supported Package     $COLOR"
+echo -e "$On_Red $BWhiteCreated   By:EFX Tv [[required_things_termux]]     $COLOR"
 echo -e "$BYellow _____ _______  __  _____       "
 echo -e "$BYellow| ____|  ___\ \/ / |_   _|_   __"
 echo -e "$BWhite|  _| | |_   \  /    | | \ \ / /"
@@ -259,15 +290,18 @@ echo -e "$BGreen|_____|_|   /_/\_\   |_|   \_/ "
 echo -e "$BWhite			"
 echo -e "$BWhite ヅ●$BRed ● $COLOR●$COLOR ⓅⓁⒺⒶⓈⒺ ⓈⓊⒷⓈⒸⓇⒾⒷⒺ ●$BRed ● $COLOR●$BWhite ツ $COLOR "
 echo -e "$On_Red      No questions do it fast...    $COLOR"""
-echo " "
-echo " "
+echo "◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►"
+echo -e "   Note:$BRed✘✘✘$COLOR Do not missuse it $BRed✘✘✘$COLOR "
+echo -e "$BRed◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►$COLOR"
 echo " Installing Open-JDK-8-Jre..."
 sleep 4
 pkg install openjdk-8-jdk openjdk-8-jre -y
 clear
+echo " "
+echo " "
+clear
 echo "◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►"
-echo -e "$On_Red $BWhiteCreated   By: EFX Tv
-echo -e "Install termux Supported Package     $COLOR"
+echo -e "$On_Red $BWhiteCreated   By:EFX Tv [[required_things_termux]]     $COLOR"
 echo -e "$BYellow _____ _______  __  _____       "
 echo -e "$BYellow| ____|  ___\ \/ / |_   _|_   __"
 echo -e "$BWhite|  _| | |_   \  /    | | \ \ / /"
@@ -276,11 +310,18 @@ echo -e "$BGreen|_____|_|   /_/\_\   |_|   \_/ "
 echo -e "$BWhite			"
 echo -e "$BWhite ヅ●$BRed ● $COLOR●$COLOR ⓅⓁⒺⒶⓈⒺ ⓈⓊⒷⓈⒸⓇⒾⒷⒺ ●$BRed ● $COLOR●$BWhite ツ $COLOR "
 echo -e "$On_Red      No questions do it fast...    $COLOR"""
+echo "◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►"
+echo -e "   Note:$BRed✘✘✘$COLOR Do not missuse it $BRed✘✘✘$COLOR "
+echo -e "$BRed◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►$COLOR"
+echo " Installing python3-pip..."
+sleep 4
 pkg install python3-pip -y
 clear
+echo " "
+echo " "
+clear
 echo "◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►"
-echo -e "$On_Red $BWhiteCreated   By: EFX Tv
-echo -e "Install termux Supported Package     $COLOR"
+echo -e "$On_Red $BWhiteCreated   By:EFX Tv [[required_things_termux]]     $COLOR"
 echo -e "$BYellow _____ _______  __  _____       "
 echo -e "$BYellow| ____|  ___\ \/ / |_   _|_   __"
 echo -e "$BWhite|  _| | |_   \  /    | | \ \ / /"
@@ -289,36 +330,18 @@ echo -e "$BGreen|_____|_|   /_/\_\   |_|   \_/ "
 echo -e "$BWhite			"
 echo -e "$BWhite ヅ●$BRed ● $COLOR●$COLOR ⓅⓁⒺⒶⓈⒺ ⓈⓊⒷⓈⒸⓇⒾⒷⒺ ●$BRed ● $COLOR●$BWhite ツ $COLOR "
 echo -e "$On_Red      No questions do it fast...    $COLOR"""
-echo " "
-echo " "
+echo "◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►"
+echo -e "   Note:$BRed✘✘✘$COLOR Do not missuse it $BRed✘✘✘$COLOR "
+echo -e "$BRed◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►$COLOR"
 echo " Installing updates..."
 sleep 4
-pkg update -y
+sudo apt-get update -y
 clear
-echo "◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►"
-echo -e "$On_Red $BWhiteCreated   By: EFX Tv
-echo -e "Install termux Supported Package     $COLOR"
-echo -e "$BYellow _____ _______  __  _____       "
-echo -e "$BYellow| ____|  ___\ \/ / |_   _|_   __"
-echo -e "$BWhite|  _| | |_   \  /    | | \ \ / /"
-echo -e "$BGreen| |___|  _|  /  \    | |  \ V / "
-echo -e "$BGreen|_____|_|   /_/\_\   |_|   \_/ "
-echo -e "$BWhite			"
-echo -e "$BWhite ヅ●$BRed ● $COLOR●$COLOR ⓅⓁⒺⒶⓈⒺ ⓈⓊⒷⓈⒸⓇⒾⒷⒺ ●$BRed ● $COLOR●$BWhite ツ $COLOR "
-echo -e "$On_Red      No questions do it fast...    $COLOR"""
 echo " "
 echo " "
-echo "Now we are baout to install metasploit official version for Termux"
-sleep 5
-echo " Installing Some more Required things..."
-sleep 2
-echo "Removing metasploit if you already have..."
-pkg remove metasploit -y
-sleep 2
 clear
 echo "◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►"
-echo -e "$On_Red $BWhiteCreated   By: EFX Tv
-echo -e "Install termux Supported Package     $COLOR"
+echo -e "$On_Red $BWhiteCreated   By:EFX Tv [[required_things_termux]]     $COLOR"
 echo -e "$BYellow _____ _______  __  _____       "
 echo -e "$BYellow| ____|  ___\ \/ / |_   _|_   __"
 echo -e "$BWhite|  _| | |_   \  /    | | \ \ / /"
@@ -327,54 +350,18 @@ echo -e "$BGreen|_____|_|   /_/\_\   |_|   \_/ "
 echo -e "$BWhite			"
 echo -e "$BWhite ヅ●$BRed ● $COLOR●$COLOR ⓅⓁⒺⒶⓈⒺ ⓈⓊⒷⓈⒸⓇⒾⒷⒺ ●$BRed ● $COLOR●$BWhite ツ $COLOR "
 echo -e "$On_Red      No questions do it fast...    $COLOR"""
-echo "Updating system..."
-sleep 2
-pkg update -y && pkg upgrade
-sleep "Adding unstable repo to the termux.."
-pkg in unstable-repo
-clear
 echo "◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►"
-echo -e "$On_Red $BWhiteCreated   By: EFX Tv
-echo -e "Install termux Supported Package     $COLOR"
-echo -e "$BYellow _____ _______  __  _____       "
-echo -e "$BYellow| ____|  ___\ \/ / |_   _|_   __"
-echo -e "$BWhite|  _| | |_   \  /    | | \ \ / /"
-echo -e "$BGreen| |___|  _|  /  \    | |  \ V / "
-echo -e "$BGreen|_____|_|   /_/\_\   |_|   \_/ "
-echo -e "$BWhite			"
-echo -e "$BWhite ヅ●$BRed ● $COLOR●$COLOR ⓅⓁⒺⒶⓈⒺ ⓈⓊⒷⓈⒸⓇⒾⒷⒺ ●$BRed ● $COLOR●$BWhite ツ $COLOR "
-echo -e "$On_Red      No questions do it fast...    $COLOR"""
-excho "Inatalling metasploit for you..."
-sleep 2
-pkg install metasploit
+echo -e "   Note:$BRed✘✘✘$COLOR Do not missuse it $BRed✘✘✘$COLOR "
+echo -e "$BRed◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►$COLOR"
+echo " Installing python-pip..."
+sleep 4
+pkg install python-pip -y
 clear
-echo "◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►"
-echo -e "$On_Red $BWhiteCreated   By: EFX Tv
-echo -e "Install termux Supported Package     $COLOR"
-echo -e "$BYellow _____ _______  __  _____       "
-echo -e "$BYellow| ____|  ___\ \/ / |_   _|_   __"
-echo -e "$BWhite|  _| | |_   \  /    | | \ \ / /"
-echo -e "$BGreen| |___|  _|  /  \    | |  \ V / "
-echo -e "$BGreen|_____|_|   /_/\_\   |_|   \_/ "
-echo -e "$BWhite			"
-echo -e "$BWhite ヅ●$BRed ● $COLOR●$COLOR ⓅⓁⒺⒶⓈⒺ ⓈⓊⒷⓈⒸⓇⒾⒷⒺ ●$BRed ● $COLOR●$BWhite ツ $COLOR "
-echo -e "$On_Red      No questions do it fast...    $COLOR"""
-echo "Metasploit installed successfully with all the requied packages you need to have in your termux."
-sleep1
+
+
 echo " "
 echo "...############# Cheers !!! ################..."
 clear
-echo "◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►"
-echo -e "$On_Red $BWhiteCreated   By: EFX Tv
-echo -e "Install termux Supported Package     $COLOR"
-echo -e "$BYellow _____ _______  __  _____       "
-echo -e "$BYellow| ____|  ___\ \/ / |_   _|_   __"
-echo -e "$BWhite|  _| | |_   \  /    | | \ \ / /"
-echo -e "$BGreen| |___|  _|  /  \    | |  \ V / "
-echo -e "$BGreen|_____|_|   /_/\_\   |_|   \_/ "
-echo -e "$BWhite			"
-echo -e "$BWhite ヅ●$BRed ● $COLOR●$COLOR ⓅⓁⒺⒶⓈⒺ ⓈⓊⒷⓈⒸⓇⒾⒷⒺ ●$BRed ● $COLOR●$BWhite ツ $COLOR "
-echo -e "$On_Red      No questions do it fast...    $COLOR"""
 echo " ."
 sleep 1
 echo " ."
@@ -393,7 +380,6 @@ echo '
 \___ \| | | |  _ \___ \| |   | |_) || ||  _ \|  _|
  ___) | |_| | |_) |__) | |___|  _ < | || |_) | |___
 |____/ \___/|____/____/ \____|_| \_\___|____/|_____|
-
----------------EFX tv----------------(THANK YOU)....\'
+------------------------------------(THANK YOU)....\'
 sleep 4
 exit
